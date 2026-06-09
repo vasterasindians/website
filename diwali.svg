@@ -1,0 +1,37 @@
+<svg width="1200" height="825" viewBox="0 0 1200 825" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="825" rx="36" fill="#1E274C"/>
+  <circle cx="180" cy="150" r="140" fill="#F2B134" fill-opacity="0.16"/>
+  <circle cx="1050" cy="120" r="120" fill="#C94D34" fill-opacity="0.18"/>
+  <circle cx="980" cy="700" r="170" fill="#577C47" fill-opacity="0.16"/>
+  <path d="M0 645C130 590 246 565 377 590C539 621 621 730 791 724C930 720 1041 652 1200 603V825H0V645Z" fill="#111832"/>
+  <g opacity="0.9">
+    <circle cx="195" cy="195" r="8" fill="#FFF5D9"/>
+    <circle cx="235" cy="165" r="5" fill="#FFF5D9"/>
+    <circle cx="1035" cy="180" r="6" fill="#FFF5D9"/>
+    <circle cx="910" cy="120" r="4" fill="#FFF5D9"/>
+    <circle cx="845" cy="216" r="7" fill="#FFF5D9"/>
+  </g>
+  <g transform="translate(180 235)">
+    <ellipse cx="122" cy="242" rx="122" ry="40" fill="#6F2D22"/>
+    <path d="M42 232C58 151 86 110 122 110C158 110 186 151 202 232H42Z" fill="#B24E2D"/>
+    <path d="M58 232C73 171 93 144 122 144C151 144 171 171 186 232H58Z" fill="#F0A93E"/>
+    <path d="M101 126C113 112 121 77 121 77C121 77 132 113 142 126C152 138 161 149 161 168C161 193 144 213 121 213C98 213 81 193 81 168C81 149 91 139 101 126Z" fill="#FFD25A"/>
+    <path d="M112 130C118 122 122 103 122 103C122 103 127 122 132 129C137 136 142 142 142 154C142 170 132 182 122 182C111 182 101 170 101 154C101 143 107 136 112 130Z" fill="#FFF6B1"/>
+  </g>
+  <g transform="translate(500 195)">
+    <ellipse cx="122" cy="282" rx="122" ry="40" fill="#6F2D22"/>
+    <path d="M42 272C58 191 86 150 122 150C158 150 186 191 202 272H42Z" fill="#B24E2D"/>
+    <path d="M58 272C73 211 93 184 122 184C151 184 171 211 186 272H58Z" fill="#F0A93E"/>
+    <path d="M101 166C113 152 121 117 121 117C121 117 132 153 142 166C152 178 161 189 161 208C161 233 144 253 121 253C98 253 81 233 81 208C81 189 91 179 101 166Z" fill="#FFD25A"/>
+    <path d="M112 170C118 162 122 143 122 143C122 143 127 162 132 169C137 176 142 182 142 194C142 210 132 222 122 222C111 222 101 210 101 194C101 183 107 176 112 170Z" fill="#FFF6B1"/>
+  </g>
+  <g transform="translate(820 250)">
+    <ellipse cx="98" cy="208" rx="98" ry="34" fill="#6F2D22"/>
+    <path d="M30 198C44 135 66 104 98 104C130 104 152 135 166 198H30Z" fill="#B24E2D"/>
+    <path d="M44 198C56 152 74 130 98 130C122 130 140 152 152 198H44Z" fill="#F0A93E"/>
+    <path d="M83 121C92 110 98 82 98 82C98 82 106 111 114 121C122 130 129 140 129 156C129 177 115 194 98 194C81 194 67 177 67 156C67 140 75 130 83 121Z" fill="#FFD25A"/>
+    <path d="M90 124C95 118 98 102 98 102C98 102 102 118 107 124C111 129 115 135 115 145C115 158 107 168 98 168C89 168 81 158 81 145C81 135 85 129 90 124Z" fill="#FFF6B1"/>
+  </g>
+  <text x="78" y="104" fill="#FFF6E3" font-family="Georgia, serif" font-size="58" font-weight="700">Diwali Celebration</text>
+  <text x="80" y="770" fill="#F4D9A7" font-family="Arial, sans-serif" font-size="28" letter-spacing="3">LIGHT  |  TOGETHERNESS  |  NEW BEGINNINGS</text>
+</svg>

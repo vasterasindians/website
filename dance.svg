@@ -1,0 +1,42 @@
+<svg width="1200" height="825" viewBox="0 0 1200 825" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="825" rx="36" fill="#FBF4E7"/>
+  <rect x="0" y="540" width="1200" height="285" fill="#17243B"/>
+  <path d="M0 555C196 501 349 503 516 545C681 586 811 611 1200 510V586H0V555Z" fill="#223556"/>
+  <path d="M0 592C215 548 421 561 627 604C800 641 1009 658 1200 625V825H0V592Z" fill="#122034"/>
+  <circle cx="181" cy="104" r="68" fill="#F2B134" fill-opacity="0.42"/>
+  <circle cx="1037" cy="138" r="92" fill="#C94D34" fill-opacity="0.22"/>
+  <g opacity="0.7">
+    <path d="M140 155L185 248H95L140 155Z" fill="#F2B134"/>
+    <path d="M1030 188L1075 281H985L1030 188Z" fill="#F2B134"/>
+    <path d="M595 126L632 203H558L595 126Z" fill="#F2B134"/>
+  </g>
+  <g transform="translate(200 226)">
+    <circle cx="92" cy="88" r="42" fill="#E4A66A"/>
+    <path d="M78 136H110L138 274H50L78 136Z" fill="#C94D34"/>
+    <path d="M76 162C99 188 132 193 162 169L192 192C154 236 110 249 65 222L76 162Z" fill="#F2B134"/>
+    <path d="M58 183L0 257L31 283L92 223L58 183Z" fill="#214D78"/>
+    <path d="M135 185L221 230L206 267L112 226L135 185Z" fill="#577C47"/>
+    <path d="M87 275L53 379L92 392L119 297L87 275Z" fill="#F2B134"/>
+    <path d="M123 275L183 359L216 331L151 257L123 275Z" fill="#F2B134"/>
+  </g>
+  <g transform="translate(575 190)">
+    <circle cx="106" cy="90" r="42" fill="#E4A66A"/>
+    <path d="M94 138H120L150 286H62L94 138Z" fill="#F2B134"/>
+    <path d="M73 177C102 195 132 193 166 164L196 197C158 242 109 252 56 226L73 177Z" fill="#D8576F"/>
+    <path d="M63 192L0 269L30 293L97 232L63 192Z" fill="#577C47"/>
+    <path d="M148 188L241 223L228 261L129 224L148 188Z" fill="#214D78"/>
+    <path d="M98 290L66 398L104 409L131 312L98 290Z" fill="#C94D34"/>
+    <path d="M128 290L197 371L228 340L154 270L128 290Z" fill="#C94D34"/>
+  </g>
+  <g transform="translate(885 220)">
+    <circle cx="86" cy="86" r="38" fill="#E4A66A"/>
+    <path d="M72 128H100L126 244H46L72 128Z" fill="#214D78"/>
+    <path d="M56 157C80 175 107 176 133 156L154 180C122 214 83 225 41 204L56 157Z" fill="#F2B134"/>
+    <path d="M48 173L0 236L25 255L73 205L48 173Z" fill="#D8576F"/>
+    <path d="M114 172L186 200L176 230L103 204L114 172Z" fill="#577C47"/>
+    <path d="M81 244L57 328L91 336L113 260L81 244Z" fill="#F2B134"/>
+    <path d="M105 244L157 307L184 283L126 226L105 244Z" fill="#F2B134"/>
+  </g>
+  <text x="78" y="100" fill="#17243B" font-family="Georgia, serif" font-size="58" font-weight="700">Kulturnatt Dance Showcase</text>
+  <text x="78" y="760" fill="#F0D9A5" font-family="Arial, sans-serif" font-size="28" letter-spacing="3">BOLLYWOOD  |  FOLK FUSION  |  CULTURAL EXCHANGE</text>
+</svg>
